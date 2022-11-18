@@ -21,3 +21,6 @@
 <h5>Make use of the listComptes method</h5>
 <img src="screenshots/listComptes_operation.png"/>
 <br/>
+<h5>getCompte operation with dateCreation attribute removed</h5>
+<img src="screenshots/dateCreation_removed.png"/>
+<br/>
